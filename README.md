@@ -90,5 +90,4 @@ The Excel file contains one row per rebar entry with these columns:
 
 ## Author
 
-**Divyanshu Raghuwanshi**  
-[GitHub](https://github.com/divyanshu964) | [LinkedIn](https://www.linkedin.com/in/divyanshu-raghuwanshi-85037b160/) | [Portfolio](https://www.datascienceportfol.io/divyanshu964)
+**Divyanshu Raghuwanshi**
